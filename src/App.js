@@ -27,7 +27,7 @@ function App() {
         <p className="hero-subtitle">Gharana Ventures is an early-stage investment firm that invests $5,000 to $30,000 checks across sectors.</p>
         <div className="hero-buttons">
           <a href="#team" className="primary-button">Our Team</a> 
-          <a href="#team" className="secondary-button">Our Approach</a> 
+          <a href="#approach" className="secondary-button">Our Approach</a> 
         </div>
       </div>
       <div className="logo-showcase">
@@ -83,10 +83,6 @@ function App() {
                 Our team brings operational experience, technical expertise, and 
                 a vast network to help portfolio companies scale and succeed.
               </p>
-            </div>
-            <div className="about-image">
-              {/* Image placeholder */}
-              <div className="image-placeholder"></div>
             </div>
           </div>
         </div>
@@ -202,7 +198,7 @@ function App() {
         </div>
         <h3>Gaurav Turaga</h3>
         <p className="team-title">Investor</p>
-        <p className="team-bio">Gaurav has a background in Finance, with past experience at Coinbase and multiple venture backed startups.</p>
+        <p className="team-bio">Gaurav has a background in Finance, with experience at Coinbase and multiple venture backed startups.</p>
       </div>
     </div>
   </div>

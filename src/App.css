@@ -358,12 +358,7 @@ button {
   background-color: white;
 }
 
-.about-content {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 60px;
-  align-items: center;
-}
+
 
 .about-text p {
   font-size: 18px;
