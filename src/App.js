@@ -101,14 +101,14 @@ function App() {
                 <span>01</span>
               </div>
               <h3>Capital</h3>
-              <p>We provide the financial resources needed to scale, with initial investments ranging from $1-10M and reserves for follow-on rounds.</p>
+              <p>We provide the financial resources needed to scale, investing $5k - $30k checks across sectors.</p>
             </div>
             <div className="approach-card">
               <div className="approach-icon">
                 <span>02</span>
               </div>
               <h3>Expertise</h3>
-              <p>Our partners have built and exited multiple companies, offering first-hand operational guidance on your journey.</p>
+              <p>Our partners have built multiple companies, offering first-hand operational guidance on your journey.</p>
             </div>
             <div className="approach-card">
               <div className="approach-icon">
