@@ -176,14 +176,14 @@ function App() {
       <h2>Meet the team</h2>
     </div>
     <div className="team-grid">
-      <div className="team-member">
+      {/* <div className="team-member">
         <div className="team-image-container">
           <img src={require('./assets/images/vish.jpeg')} alt="Vish Turaga" className="team-image" />
         </div>
         <h3>Vish Turaga</h3>
         <p className="team-title">Investor</p>
         <p className="team-bio">Vish is a seasoned technology leader with over 20 years of experience in the semiconductor and AI/ML industries at companies like Google and Intel.</p>
-      </div>
+      </div> */}
       <div className="team-member">
         <div className="team-image-container">
           <img src={require('./assets/images/vaibhav.jpeg')} alt="Vaibhav Turaga" className="team-image" />
